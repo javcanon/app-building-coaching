@@ -9,16 +9,19 @@ more as we go.
 Someone technical in their own field (e.g. engineering) but new to software development. The
 goal is to build real confidence with the basics, not to become a professional developer.
 
-## Resources
+## How this works
+
+Resources are added **one step at a time, in sequence.** Don't jump ahead. Each step builds
+on the last, so you're never overwhelmed. New steps will show up here as we go.
+
+## Steps
+
+- **Step 1 — [Create a GitHub account](step-1-create-github-account.md)** ← start here.
+  Set up your free account and turn on two-factor authentication.
+
+_(More steps coming, added sequentially.)_
+
+## Reference (read anytime)
 
 - **[github-basics.md](github-basics.md)** — Plain-language intro to Git and GitHub: repos,
-  commits, push/pull, branches, and the daily workflow. Start here.
-
-## Suggested learning path
-
-1. Read `github-basics.md` and get comfortable with five words: repo, commit, push, pull, branch.
-2. Create a free GitHub account and poke around this repo (view files, view history/commits).
-3. Install an AI coding tool and let it create a first practice repo.
-4. Build something tiny end to end, committing and pushing along the way.
-
-_More resources will be added here over time._
+  commits, push/pull, branches, and the daily workflow. Good to read alongside Step 1.

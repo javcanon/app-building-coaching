@@ -23,8 +23,9 @@ commit (Tier B — light).
 
 ## Key files
 
-- `README.md` — repo intro + index of resources and a suggested learning path.
-- `github-basics.md` — plain-language intro to Git and GitHub.
+- `README.md` — repo intro + the sequential step list (resources added one step at a time).
+- `step-1-create-github-account.md` — Step 1: create a GitHub account + enable 2FA.
+- `github-basics.md` — plain-language reference intro to Git and GitHub (read anytime).
 
 ## Full context
 
