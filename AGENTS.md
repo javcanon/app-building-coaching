@@ -25,6 +25,7 @@ commit (Tier B — light).
 
 - `README.md` — repo intro + the sequential step list (resources added one step at a time).
 - `step-1-create-github-account.md` — Step 1: create a GitHub account + enable 2FA.
+- `step-2-install-vs-code.md` — Step 2: install VS Code; open a folder, read markdown, view a diff.
 - `github-basics.md` — plain-language reference intro to Git and GitHub (read anytime).
 
 ## Full context

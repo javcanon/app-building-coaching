@@ -18,6 +18,8 @@ on the last, so you're never overwhelmed. New steps will show up here as we go.
 
 - **Step 1 — [Create a GitHub account](step-1-create-github-account.md)** ← start here.
   Set up your free account and turn on two-factor authentication.
+- **Step 2 — [Install VS Code](step-2-install-vs-code.md)**. Get the tool where you'll see
+  your files; learn to open a folder, read markdown, and view a diff. No coding yet.
 
 _(More steps coming, added sequentially.)_
 
