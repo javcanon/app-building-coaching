@@ -16,12 +16,16 @@ on the last, so you're never overwhelmed. New steps will show up here as we go.
 
 ## Steps
 
-- **Step 1 — [Create a GitHub account](step-1-create-github-account.md)** ← start here.
+- **Step 1: [Create a GitHub account](step-1-create-github-account.md)** ← start here.
   Set up your free account and turn on two-factor authentication.
-- **Step 2 — [Install VS Code](step-2-install-vs-code.md)**. Get the tool where you'll see
+- **Step 2: [Install VS Code](step-2-install-vs-code.md)**. Get the tool where you'll see
   your files; learn to open a folder, read markdown, and view a diff. No coding yet.
+- **Step 3: [Install Claude Code](step-3-install-claude-code.md)**. Add your AI coding
+  partner and have your first plain-English conversation with it.
+- **Step 4: [Build your first simple project](step-4-build-first-project.md)**. Create a
+  tiny website with Claude Code and put it on GitHub. The full loop, end to end.
 
-_(More steps coming, added sequentially.)_
+_(More steps can be added as projects grow.)_
 
 ## Reference (read anytime)
 
